@@ -1,6 +1,6 @@
 # [舔狗](https://we.dog/)
 ### 我们是狗，舔狗。
-基于[tiangou](https://github.com/hhx546642451/tiangou) 中的数据，重新设计了舔狗日记。
+基于[tiangou](https://github.com/hhx546642451/tiangou) 中的数据，重新设计了舔狗日记。<br>
 转发自[xiongbao](https://github.com/xiongbao/we.dog)
 ## 没卵用的特性
 - 人肉对每段数据的内容、标点符号进行纠错与优化（不一定标准）；并按本人理解进行了划重点标记。
